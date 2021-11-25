@@ -971,7 +971,7 @@ button, input, optgroup, select, textarea {
     margin: 0
 }
 
-address {
+. address {
     font-style: normal
 }
 
@@ -4454,7 +4454,7 @@ select.form-control {
 }
 
 html {
-    overflow-x: hidden \0;
+    overflow-x: hidden \0/;
     -ms-overflow-style: none
 }
 

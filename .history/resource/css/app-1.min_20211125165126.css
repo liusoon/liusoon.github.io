@@ -8025,7 +8025,7 @@ a.thumbnail.active, a.thumbnail:focus, a.thumbnail:hover {
 }
 
 html {
-    overflow-x: hidden \0;
+    overflow-x: hidden \0/;
     -ms-overflow-style: none
 }
 
